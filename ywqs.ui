@@ -115,7 +115,7 @@
     </font>
    </property>
    <property name="text">
-    <string>提示：充值金额仅支持20，50，100三种输入</string>
+    <string>提示：充值金额仅支持50，100，200三种输入</string>
    </property>
   </widget>
  </widget>

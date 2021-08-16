@@ -58,6 +58,6 @@ class Ui_Form(object):
         self.label.setText(QCoreApplication.translate("Form", u"\u7ed1\u5b9a\u8d26\u53f7", None))
         self.label_2.setText(QCoreApplication.translate("Form", u"\u5145\u503c\u91d1\u989d", None))
         self.pushButton.setText(QCoreApplication.translate("Form", u"\u4e00\u952e\u5145\u503c", None))
-        self.label_3.setText(QCoreApplication.translate("Form", u"\u63d0\u793a\uff1a\u5145\u503c\u91d1\u989d\u4ec5\u652f\u630120\uff0c50\uff0c100\u4e09\u79cd\u8f93\u5165", None))
+        self.label_3.setText(QCoreApplication.translate("Form", u"\u63d0\u793a\uff1a\u5145\u503c\u91d1\u989d\u4ec5\u652f\u630150\uff0c100\uff0c200\u4e09\u79cd\u8f93\u5165", None))
     # retranslateUi
 
